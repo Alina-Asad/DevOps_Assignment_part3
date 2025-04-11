@@ -1,6 +1,6 @@
 # Getting started
-#part 3 \n
-Docker Volume - A storage palce for files where even after the container is delete, the files are not lost.\n
+#part 3 
+Docker Volume - A storage palce for files where even after the container is delete, the files are not lost.
 
 1- creating the volume. command - docker volume create my-volume\n 
 
